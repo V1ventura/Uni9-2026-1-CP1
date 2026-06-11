@@ -4,4 +4,4 @@
 - RA: 924106342 — Nome: Arthur Aguiar Costa 
 
 # Screenshot de como ficou:
-![Screenshot do projeto](imagem.png.PNG)
+![Screenshot do projeto](imagem.png)
